@@ -51,3 +51,13 @@ User reflashToken:
         }
         
 ``` 
+mysql数据库配置:
+```
+MYSQLUSERNAME 数据库用户名，默认root
+MYSQLPASSWD 数据库密码
+MYSQLHOST    数据库host，默认localhost
+MYSQLDBNAME   数据库名称,默认mysql
+MYSQLPORT      数据库端口，默认3306
+
+
+```
